@@ -1,0 +1,8 @@
+.pokemon {
+    display: inline-block;
+    margin: 20px;
+}
+
+.pokemon img {
+    display: block;
+}
